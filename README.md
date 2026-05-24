@@ -1,13 +1,14 @@
 # LazyEnergy
 
-**Description:**  
-LazyEnergy is a mod that optimizes lazy usage of AE2.
+## Description
 
-**Features:**  
+LazyEnergy is a mod that optimizes the use of Lazy AE2.
 
-- Lazy AE machines can directly use AE energy.
-- When connected to the network, Lazy AE machines automatically import the corresponding recipes.
-- When auto-eject is enabled, Lazy AE machines automatically inject outputs into the network.
-- Lazy AE machines can be copied with a Memory Card (including ejection settings and Acceleration Cards).
-- When connected to the network, Lazy AE machines will attempt to extract Acceleration Cards from the network.
-- Lazy AE machines allow players to sneak-right-click to insert Acceleration Cards.
+## Features
+
+- Machines from Lazy AE2 are allowed to directly use AE energy.
+- When a Lazy AE2 machine connects to the network, it automatically records the corresponding recipes.
+- When a Lazy AE2 machine has auto-output enabled, it will inject the output directly into the network.
+- Lazy AE2 machines can be copied with the Memory Card (including ejection configuration and acceleration cards).
+- When a Lazy AE2 machine connects to the network, it will attempt to extract acceleration cards from the network.
+- Lazy AE2 machines allow players to sneak-right-click to insert acceleration cards.
